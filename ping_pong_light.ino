@@ -1,6 +1,8 @@
 // Light up ping pong ball w/ ATiny85
 
-// Reference: http://forum.arduino.cc/index.php?PHPSESSID=23d7fb3b90b37733914e072e2bfe66a5&topic=134754.msg1013446#msg1013446 for PWM pins
+// Reference: http://blog.makezine.com/2011/10/10/how-to-shrinkify-your-arduino-projects/
+
+
 
 const int redPin = 4;                  // IC leg 6 (PB1), output to red channel
 const int greenPin = 0;                // IC leg 5 (PB0), output to green channel
