@@ -15,6 +15,10 @@ A telescopic light-up beacon to identify a group in a crowd
 * 5 different cycle speeds
 * Flash each color individually
 
+## Making of
+
+* [Blog Post](http://www.jeremyadamwilson.com/music-fest-beacon/)
+
 ## Requirements
 
 ### Hardware for Breadboard Version
